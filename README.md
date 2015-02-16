@@ -65,7 +65,8 @@ We try another example, where the denominator is a power of
 
 An example where $2^8$ divides the conductor::
 
-    sage:
-    
+    sage: ram_index(EllipticCurve('768b'),2)
+    8
 
 #### How it works.
+Upcoming...
