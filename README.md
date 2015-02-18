@@ -34,7 +34,7 @@ $$e(d) \text{ is a divisor of 24}.$$
 
 Open a sage worksheet and do
 
-    sage: load('ramification-index')
+    sage: load('ramification-index.sage')
 
 To test the code, we compute some ramification indices.
 First we consider the curve "48a", of which we know
